@@ -65,7 +65,7 @@ Spatio-Temporal Graph Transformer with Dynamic Flow Routing.
 
 ## 📫 Connect with Me  
 
-- **LinkedIn:** [Your LinkedIn URL](#)  
+- **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/hassaan-huzaifa-928807379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **GitHub:** [github.com/YourUsername](#)  
 - **Email:** hassaanhuzaifa304@gmail.com  
 
