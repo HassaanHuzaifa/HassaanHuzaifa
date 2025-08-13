@@ -64,7 +64,8 @@ Spatio-Temporal Graph Transformer with Dynamic Flow Routing.
 ---
 
 ## 📫 Connect with Me  
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0c095e5e-cb50-49fc-aeaa-eeb5331e702d" />**LinkedIn:** [Your LinkedIn URL](#)  
+
+- **LinkedIn:** [](#)  
 - **GitHub:** [github.com/YourUsername](#)  
 - **Email:** hassaanhuzaifa304@gmail.com  
 
