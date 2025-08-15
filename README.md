@@ -30,7 +30,7 @@ I specialize in **signal processing**, **hardware/software integration**, and **
 AI system to detect & classify 4 types of brain tumors.  
 **Tech:** CNN, TensorFlow, Python | **Accuracy:** 99.25%  
 
-### ❤️ **[AI Driven Cardiovascular Disease Diagnosis](#)**  
+### ❤️ **[AI Driven Cardiovascular Disease Diagnosis](https://github.com/HassaanHuzaifa/Biomedical-related-AI-Projects/tree/main/Cardiovascular%20Disease%20disgnosis%20from%20Ecg%20analysis%20to%20Risk%20prediction)**  
 ECG-based AI system for 4 CVD types with risk prediction.  
 **Tech:** CNN, PyTorch, Signal Processing | **Accuracy:** 99.07%  
 
