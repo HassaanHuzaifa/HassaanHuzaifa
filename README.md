@@ -34,7 +34,7 @@ AI system to detect & classify 4 types of brain tumors.
 ECG-based AI system for 4 CVD types with risk prediction.  
 **Tech:** CNN, PyTorch, Signal Processing | **Accuracy:** 99.07%  
 
-### ⚡ **[Transformer Fault Detection using AI](#)**  
+### ⚡ **[Transformer Fault Detection using AI](https://github.com/HassaanHuzaifa/Power-Electronic-and-sigal-processing-projects/tree/main/Transformer%20Fault%20Detection%20and%20Diagnosis%20Using%20AI/Data%20Set)**  
 Classification of 16 transformer faults for predictive maintenance.  
 **Tech:** LSTM, PyTorch, Embedded Systems | **Accuracy:** 95%  
 
