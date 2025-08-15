@@ -38,7 +38,7 @@ ECG-based AI system for 4 CVD types with risk prediction.
 Classification of 16 transformer faults for predictive maintenance.  
 **Tech:** LSTM, PyTorch, Embedded Systems | **Accuracy:** 95%  
 
-### 🌊 **[ST-PIGT-DFR for Flood Forecasting](#)**  
+### 🌊 **[ST-PIGT-DFR for Flood Forecasting](https://github.com/HassaanHuzaifa/Spatio-Temporal-Physics-Informed-Graph-Transformer-with-Dynamic-Flow-Routing-for-Flood-Forecasting)**  
 Spatio-Temporal Graph Transformer with Dynamic Flow Routing.  
 **Tech:** GNN, Transformers, Physics-Informed ML | **Accuracy:** 96%  
 
