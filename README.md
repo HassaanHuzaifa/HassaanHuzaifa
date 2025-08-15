@@ -26,7 +26,7 @@ I specialize in **signal processing**, **hardware/software integration**, and **
 ---
 
 ## 📂 Featured Projects  
-### 🧬 **[MRI Brain Tumor Classification Using Deep Learning](#)**  
+### 🧬 **[MRI Brain Tumor Classification Using Deep Learning](https://github.com/HassaanHuzaifa/MRI-Brain-Tumor-Classification-Using-Deep-Learning)**  
 AI system to detect & classify 4 types of brain tumors.  
 **Tech:** CNN, TensorFlow, Python | **Accuracy:** 99.25%  
 
