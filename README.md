@@ -5,7 +5,6 @@
 📍 Kot Addu, Pakistan   |   📧 [Email](hassaanhuzaifa304@gmail.com)   |   📱 +92 326 9682878  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0c095e5e-cb50-49fc-aeaa-eeb5331e702d" />   [LinkedIn](https://www.linkedin.com/in/hassaan-huzaifa-928807379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 
-
 ---
 
 ## 🚀 About Me  
